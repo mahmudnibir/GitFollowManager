@@ -1,15 +1,6 @@
 <div align="center">
 	<img src="./img/banner.jpg">
-    <h1>Subscribe to those who subscribe to you!</h1>
-      <a href="https://github.com/mahmudnibir/GitFollowManager/issues">
-        <img src="https://img.shields.io/github/issues/mahmudnibir/GitFollowManager?color=C0CBD1&labelColor=1F3B58&style=for-the-badge">
-    </a>
-    <a href="https://github.com/mahmudnibir/GitFollowManager/stargazers">
-        <img src="https://img.shields.io/github/stars/mahmudnibir/GitFollowManager?color=C0CBD1&labelColor=1F3B58&style=for-the-badge">
-    </a>
-    <a href="./LICENSE">
-        <img src="https://img.shields.io/github/license/mahmudnibir/GitFollowManager?color=C0CBD1&labelColor=1F3B58&style=for-the-badge">
-    </a>
+    <h1>Follow to those who Follow to you!</h1>
 </div>
 <h2 align="center">Project Description</h2>
 <p>GitFollowManager is a powerful and user-friendly Python tool designed to automate the management of followers and subscriptions on GitHub. In today's world where audience interaction is key, it's important to keep your follows up to date and reflect changes in your network of contacts.</p>
